@@ -9,6 +9,6 @@
 		public By button_SignIn=By.xpath("//input[@id='signIn']");
 		public By img_account=By.xpath("//span[@class='gb_3a gbii']");
 		public By button_signout=By.xpath("//A[@id='gb_71']");
-		//public By button_signout=By.xpath("//A[@id='gb_71']");
+		
 	
 	}
